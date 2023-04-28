@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def canUnlockAll(boxes):
     """A method that determines if all `boxes` can be opened
         @boxes: A list of list of positive ints
